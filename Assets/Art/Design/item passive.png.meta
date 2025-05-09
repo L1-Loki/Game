@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: c16138e3333f1d348931c753a802a865
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: item passive_0
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 792
+        width: 359
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d750d3f60226c34c9d3062e341e158c
+      internalID: -2118642606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item passive_1
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 735
+        width: 345
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4f8112b3e9c284184861bcbeaef865
+      internalID: -124242575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item passive_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 634
+        width: 359
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2ea873f6c417a43891eee6f8b89ad2
+      internalID: -1831899820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item passive_3
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 544
+        width: 144
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5052110232b0a4e90430a071c5b7cb
+      internalID: -14942457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item passive_4
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 543
+        width: 141
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c01a1c42eae1d946b2a5e87d6f5596f
+      internalID: -2093793563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item passive_5
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 545
+        width: 143
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897ea15a1067e134e8a2f31e59f1b8c3
+      internalID: -810891654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item passive_15
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 636
+        width: 402
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071ccbc5829758c46b0bf7dc49ea4704
+      internalID: 199549218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item passive_16
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 478
+        width: 353
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007d4964849eec0458126dfecec7391d
+      internalID: 1105080613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item passive_45
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 248
+        width: 348
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66ca11061249264682d88c988bf0350
+      internalID: 1377784006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item passive_73
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 56
+        width: 1089
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fa736dc5102744fb320d2c15438667
+      internalID: -1705961341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item passive_6
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 403
+        width: 125
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811ef34977366ac4288b41e59322b3f9
+      internalID: -747463724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item passive_7
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 403
+        width: 150
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4becbe5c1eb540429e0380ceeeeaaa0
+      internalID: -1734170428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item passive_8
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 403
+        width: 68
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a709be5711468a4da08559e248d8300
+      internalID: -626025986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      item passive_0: -2118642606
+      item passive_1: -124242575
+      item passive_10: 1359667294
+      item passive_11: -417360137
+      item passive_12: 885124016
+      item passive_13: 794758659
+      item passive_14: -1683480368
+      item passive_15: 199549218
+      item passive_16: 1105080613
+      item passive_17: -2086235573
+      item passive_18: -1899743989
+      item passive_19: 1621597102
+      item passive_2: -1831899820
+      item passive_20: 599973737
+      item passive_21: -1477993758
+      item passive_22: 1273374607
+      item passive_23: 774025527
+      item passive_24: 1462347759
+      item passive_25: -1926568042
+      item passive_26: -970028081
+      item passive_27: 1336925371
+      item passive_28: -1672300016
+      item passive_29: 1965324824
+      item passive_3: -14942457
+      item passive_30: 1459855800
+      item passive_31: -633524247
+      item passive_32: 1691070042
+      item passive_33: -1595335717
+      item passive_34: -1646078721
+      item passive_35: 1884508121
+      item passive_36: -1496709517
+      item passive_37: 1699665908
+      item passive_38: 822573510
+      item passive_39: -1428161799
+      item passive_4: -2093793563
+      item passive_40: -977576530
+      item passive_41: -1859766629
+      item passive_42: -1868918694
+      item passive_43: -1554458337
+      item passive_44: 975384726
+      item passive_45: 1377784006
+      item passive_46: -229542591
+      item passive_47: -998329011
+      item passive_48: 2077141561
+      item passive_49: -233389194
+      item passive_5: -810891654
+      item passive_50: -821561126
+      item passive_51: 1116561080
+      item passive_52: -389630267
+      item passive_53: 1685639856
+      item passive_54: -445174992
+      item passive_55: -1704084745
+      item passive_56: -485643915
+      item passive_57: -333153410
+      item passive_58: 775699445
+      item passive_59: 421556828
+      item passive_6: -747463724
+      item passive_60: 914510059
+      item passive_61: -1551971426
+      item passive_62: 82506019
+      item passive_63: -757862874
+      item passive_64: -1981925630
+      item passive_65: -1445918534
+      item passive_66: -406505258
+      item passive_67: 273007343
+      item passive_68: -994396197
+      item passive_69: -778756722
+      item passive_7: -1734170428
+      item passive_70: -675133844
+      item passive_71: 918952579
+      item passive_72: -646259850
+      item passive_73: -1705961341
+      item passive_74: -5626780
+      item passive_75: -1512858551
+      item passive_76: 1250470152
+      item passive_77: 1806196289
+      item passive_78: 1227328089
+      item passive_79: 776948331
+      item passive_8: -626025986
+      item passive_80: -469351459
+      item passive_81: 655916931
+      item passive_82: -2086928296
+      item passive_83: -1349844633
+      item passive_84: 1395959620
+      item passive_85: 1194257838
+      item passive_86: 80558104
+      item passive_9: -1459938620
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5804b6a37ee89344fa586b65aaf32530, type: 3}
+  m_Name: Sprite Sheet lv 1
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1124127878751461804, guid: dbb1ef2f020ef4e45a88e6a9953e0900, type: 3}
+  damage: 10
+  speed: 10
+  recoveryTime: 2
+  pierce: 1
+  level: 1
+  nextLevelPrefab: {fileID: 0}
+  icon: {fileID: -1342861679, guid: f6dd185a112a18d48b7453fb589a9981, type: 3}

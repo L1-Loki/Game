@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 9f8e2b39450be3543b2eaea4d64f45ad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pausePanel: {fileID: 6590535361252624732, guid: bc09b54f8a65c014385a26fcecbc21d3, type: 3}
+  - resultPanel: {fileID: 1254335019454736770, guid: a6ca0ce44018bb542a311f71364336bd, type: 3}
+  - LevelUpPanel: {fileID: 7415164722640236192, guid: cfa62a87d6a6bea4ba370feb1282a086, type: 3}
+  - currentHealth: {instanceID: 0}
+  - currentRecoveryTime: {instanceID: 0}
+  - currentMoveSpeed: {instanceID: 0}
+  - currentMight: {instanceID: 0}
+  - currentProjectileSpeed: {instanceID: 0}
+  - currentMagnet: {instanceID: 0}
+  - resultCharacterImage: {instanceID: 0}
+  - resultCharacterName: {instanceID: 0}
+  - resultLevel: {instanceID: 0}
+  - resultTimeSurvive: {instanceID: 0}
+  - stopWatchText: {instanceID: 0}
+  - playerObject: {instanceID: 0}
+  - playerStats: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

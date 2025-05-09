@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0e9cbfcd41d4aa84298b06db528acd53
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Radley
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 54446624138dc594e86e0decae5bdbfd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 1
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

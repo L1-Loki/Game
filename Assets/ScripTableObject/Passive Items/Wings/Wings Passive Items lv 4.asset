@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64547be5b16cef64ab8288e6d8abf154, type: 3}
+  m_Name: Wings Passive Items lv 4
+  m_EditorClassIdentifier: 
+  multiplier: 125
+  level: 4
+  nextLevelPrefab: {fileID: 7591141286966429374, guid: 624735c384bcee2488451270d26b9441, type: 3}
+  name: Wings Level 4
+  description: Movement Speed by 125%
+  icon: {fileID: 1820705622, guid: cc9aea785dfb87946a8407c1d6a09dd2, type: 3}

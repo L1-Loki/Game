@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c20ff671e649bf41ab5a9d25690b312, type: 3}
+  m_Name: RockSlingCharacter
+  m_EditorClassIdentifier: 
+  icon: {fileID: 143484895, guid: d981ba84710d37e4ca1d5456240c565f, type: 3}
+  name: Rock Sling
+  startingWeapon: {fileID: 9037594506606657930, guid: 3d670f7c2b6cc7b4f9e812862bf4b0aa, type: 3}
+  maxHealth: 100
+  recoveryTime: 1
+  moveSpeed: 10
+  might: 1
+  projectTitleSpeed: 0
+  magnet: 1.5
